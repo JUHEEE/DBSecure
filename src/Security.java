@@ -38,6 +38,7 @@ public class Security {
 			}
 		}
 
+		//닫음
 		fileWriter.close();
 		fileReader.close();
 
